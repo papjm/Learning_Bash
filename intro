@@ -1,0 +1,2 @@
+cat /etc/shells   .... to see the shells available in your computer
+which bash ........... to see the bash available
