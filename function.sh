@@ -5,3 +5,4 @@ function functionName()
 {
   echo "just learning all the basics of hacking"
 }
+functionName
