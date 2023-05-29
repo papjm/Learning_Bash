@@ -11,3 +11,4 @@ some bash
 car=('BMW', 'Mercedes', 'Mclaren')
 
 echo ${car[0]}
+resources = learnenough.com/command-line-tutorial
