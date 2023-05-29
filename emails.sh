@@ -4,3 +4,4 @@ root=testemail@gmail.com
 mailhub=smtp.gmail.com:587       587 is the TLS port number
 AuthUser=testemail@gmail.com
 AuthPassword=emailpassword
+UseSTARTTLS=yes
